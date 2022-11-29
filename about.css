@@ -1,0 +1,10 @@
+
+.about {
+  padding-top: 6rem;
+  height: 460px;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/bg-images.jpg);
+  background-size: cover;
+  background-position: absolute;
+  color: #ffffff;
+}
